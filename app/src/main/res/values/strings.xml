@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Pizza Store</string>
+
+    <string-array name="pizza_types">
+        <item>Select Pizza</item>
+        <item>Pepperoni</item>
+        <item>Margherita</item>
+        <item>BBQ Chicken</item>
+        <item>Vegetarian</item>
+        <item>Hawaiian</item>
+    </string-array>
+
+    <string-array name="pizza_sizes">
+        <item>Select Size</item>
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array>
+</resources>
